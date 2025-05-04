@@ -38,8 +38,14 @@ Selecionar: Analyze sentiment and mine opinios
 Informa os dados, e clique em RUN
 ![image](https://github.com/user-attachments/assets/2a59edc2-bb1f-4a0a-901b-808fc75f9bed)
 
-Analise os resultados
+Analise os resultados<br>
 ![image](https://github.com/user-attachments/assets/d4ea0e59-d950-4673-896f-dd7230475bb4)
+
+# Apêndice 
+### Documentações Oficiais 
+- [Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+- [Explore Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
+- [Explore content filters in Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
 
 
 
